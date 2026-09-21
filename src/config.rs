@@ -114,7 +114,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["152.53.142.222"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["31.40.199.183"];
 pub const RS_PUB_KEY: &str = "VSbTuthr3jXYLqWrd1aJKyeTGAdTx6+mHMXi+krusDc=";
 
 // The account API lives in the GoTech panel. Without this the client would derive it from the
