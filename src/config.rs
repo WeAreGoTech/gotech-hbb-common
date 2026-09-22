@@ -119,7 +119,7 @@ pub const RS_PUB_KEY: &str = "VSbTuthr3jXYLqWrd1aJKyeTGAdTx6+mHMXi+krusDc=";
 
 // The account API lives in the GoTech panel. Without this the client would derive it from the
 // rendezvous host, whose :21114 is RustDesk Server Pro's API and is not running here.
-pub const GOTECH_API_SERVER: &str = "https://gotech-web-3biyyk-fc72c7-152-53-142-222.sslip.io";
+pub const GOTECH_API_SERVER: &str = "https://gotech-web-31-40-199-183.sslip.io";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
